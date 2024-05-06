@@ -21,3 +21,6 @@ https://github.com/sanjana764/AIML/blob/main/Lab7_AIML.ipynb
 
 LAB-08:
 https://github.com/sanjana764/AIML/blob/main/Lab8_AIML.ipynb
+
+LAB-09:
+https://github.com/sanjana764/AIML/blob/main/Lab9_AIML.ipynb
